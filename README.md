@@ -15,7 +15,7 @@ Check out the live demo here:
 ## ✨ Features
 
 - 📝 **About Me**: A brief introduction  
-- 💼 **Experience**: 3.2 years in data science roles  
+- 💼 **Experience**: 3+ years in data science roles  
 - 🛠 **Skills**: Generative AI, Machine Learning, Deep Learning, NLP, Python/SQL  
 - 📫 **Contact**: Email, GitHub, and LinkedIn links with icons  
 - 🎨 **Responsive** and clean design for easy viewing on all devices  
