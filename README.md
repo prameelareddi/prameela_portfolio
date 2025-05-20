@@ -1,34 +1,42 @@
-👩‍💼 Prameela Reddi - Portfolio
-Welcome to my personal portfolio website!
-I am a Lead Data Scientist passionate about AI, machine learning, and solving real-world problems with data.
+# 👩‍💼 Prameela Reddi - Portfolio
 
-🔗 Demo
-Check out the live demo here:
-🌐 https://prameelareddi.github.io/prameela_portfolio/
+Welcome to my mini personal portfolio website!  
+I am a **Lead Data Scientist** passionate about AI, machine learning, and solving real-world problems with data.
 
-✨ Features
-📝 About Me: A brief introduction
+---
 
-💼 Experience: 3.2 years in data science roles
+## 🔗 Demo
 
-🛠 Skills: Generative AI, Machine Learning, Deep Learning, NLP, Python/SQL
+Check out the live demo here:  
+🌐 [https://prameelareddi.github.io/prameela_portfolio/](https://prameelareddi.github.io/prameela_portfolio/)
 
-📫 Contact: Email, GitHub, and LinkedIn links with icons
+---
 
-🎨 Responsive and clean design for easy viewing on all devices
+## ✨ Features
 
-🚀 How to Use
-Clone or download this repository
+- 📝 **About Me**: A brief introduction  
+- 💼 **Experience**: 3.2 years in data science roles  
+- 🛠 **Skills**: Generative AI, Machine Learning, Deep Learning, NLP, Python/SQL  
+- 📫 **Contact**: Email, GitHub, and LinkedIn links with icons  
+- 🎨 **Responsive** and clean design for easy viewing on all devices  
 
-Open the index.html file in any web browser
+---
 
-Customize with your own profile picture, details, and contact links
+## 🚀 How to Use
 
-🛠 Technologies Used
-🖥️ HTML5
+1. Clone or download this repository  
+2. Open the `index.html` file in any web browser  
+3. Customize with your own profile picture, details, and contact links  
 
-🎨 CSS3
+---
 
-📬 Contact Me
+## 🛠 Technologies Used
+
+- 🖥️ HTML5  
+- 🎨 CSS3  
+
+---
+
+## 📬 Contact Me
+
 Feel free to get in touch via the contact links in the portfolio!
-
