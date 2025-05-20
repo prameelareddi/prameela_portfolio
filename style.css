@@ -7,7 +7,6 @@ body {
   margin: 0;
 }
 
-
 .profile-card {
   background: #f0f8ff; /* soft blue instead of white */
   padding: 2.5rem;
@@ -20,6 +19,7 @@ body {
   gap: 2rem;
   flex-wrap: wrap;
 }
+
 .profile-image {
   flex: 0 0 auto;
   align-self: flex-start;
@@ -76,6 +76,43 @@ body {
 
 .flex-columns div {
   min-width: 180px;
+}
+
+/* Contact list inside flex-columns */
+.contact-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.contact-list li {
+  margin-bottom: 0.6rem;
+}
+
+.contact-list a {
+  text-decoration: none;
+  color: #222;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-weight: 600;
+  transition: color 0.3s ease;
+  font-size: 1rem;
+}
+
+.contact-list a:hover {
+  color: #0073b1; /* LinkedIn blue hover */
+}
+
+.contact-list img {
+  width: 20px;
+  height: 20px;
+  filter: grayscale(0.3);
+  transition: filter 0.3s ease;
+}
+
+.contact-list a:hover img {
+  filter: grayscale(0);
 }
 
 ul {
